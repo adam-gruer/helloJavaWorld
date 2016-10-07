@@ -9,5 +9,5 @@ loJavaWorld package, will invoke a very simple Java class, the HelloJava-
 World class, from inside an R function of the package, the helloJavaWorld
 function.
 Imports:
-    rJava,
+    rJava
 SystemRequirements: Java (>= 7.0); 
