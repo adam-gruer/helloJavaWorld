@@ -4,8 +4,7 @@ Title: Tutorial for building wrappers from Java to R
 Version: 0.1
 Author: Ana Valdivia
 Maintainer: Ana Valdivia <avaldivia@ugr.es>
-Description: The package we will create in this tutorial, the helloJavaWorld package, will invoke a very simple Java class, the HelloJavaWorld class, from inside an R function of the package, the helloJavaWorld
-function.
+Description: The package we will create in this tutorial, the helloJavaWorld package, will invoke a very simple Java class, the HelloJavaWorld class, from inside an R function of the package, the helloJavaWorld function.
 Imports:
     rJava
 SystemRequirements: Java (>= 7.0); 
